@@ -1,3 +1,47 @@
 body {
     padding-top: 5rem;
 }
+
+.box1{
+    width: 27%;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 5px;
+}
+
+.box2{
+    width: 30%;
+    padding-bottom: 30px;
+    border-radius: 5px;
+}
+
+.note{
+    color: red;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.title{
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.label{
+    margin-top: 10px;
+}
+
+.btn{
+    margin-top: 20px;
+    color: white;
+    background-color: blue;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.flashes{
+    color:salmon;
+    font-size: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    list-style-type: none;
+}
